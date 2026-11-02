@@ -3,7 +3,7 @@ Aeronautical-Mechanical Engineer
 
 🌍 Seeking R&D and design roles across Europe
 🛩️ Portfolio: michelemaiullari.github.io
-📫 maiullari.michele@icloud.com
+📫 e-mail: maiullari.michele@icloud.com
 
 <!--
 **michelemaiullari/michelemaiullari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
