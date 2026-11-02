@@ -1,8 +1,8 @@
 ## Ciao, I'm Michele Maiullari
 Aeronautical-Mechanical Engineer
 
-🌍 Seeking R&D and design roles across Europe
-🛩️ Portfolio: michelemaiullari.github.io
+🌍 Seeking R&D and design roles across Europe \\
+🛩️ Portfolio: michelemaiullari.github.io \\
 📫 e-mail: maiullari.michele@icloud.com
 
 <!--
